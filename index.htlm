@@ -1,0 +1,150 @@
+<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0" name="viewport"/><style>@layer base{html,body{margin:0;padding:0;}body{overscroll-behavior:none;}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}</style><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&amp;family=Inter:wght@400;500;600&amp;display=swap" rel="stylesheet"/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config={theme:{extend:{"colors":{"on-secondary":"#ffffff","on-primary-container":"#6f88ad","on-primary-fixed":"#001c3a","surface-variant":"#e0e3e5","primary-container":"#001f3f","surface-tint":"#476083","surface-container-high":"#e6e8ea","surface-container-lowest":"#ffffff","tertiary-fixed":"#ffddb9","inverse-on-surface":"#eff1f3","secondary-container":"#9fc2fe","primary-fixed":"#d4e3ff","secondary-fixed-dim":"#a7c8ff","on-primary":"#ffffff","surface-bright":"#f7f9fb","secondary":"#3a5f94","primary":"#000613","surface-container-low":"#f2f4f6","on-error-container":"#93000a","on-primary-fixed-variant":"#2f486a","background":"#f7f9fb","surface-dim":"#d8dadc","surface-container":"#eceef0","on-secondary-fixed":"#001b3c","on-surface":"#191c1e","surface":"#f7f9fb","primary-fixed-dim":"#afc8f0","on-tertiary-container":"#bd7700","on-secondary-container":"#294f83","on-tertiary-fixed-variant":"#663e00","on-secondary-fixed-variant":"#1f477b","on-background":"#191c1e","inverse-surface":"#2d3133","error-container":"#ffdad6","outline-variant":"#c4c6cf","tertiary-fixed-dim":"#ffb961","inverse-primary":"#afc8f0","tertiary-container":"#2f1a00","tertiary":"#0c0400","error":"#ba1a1a","outline":"#74777f","on-tertiary-fixed":"#2b1700","secondary-fixed":"#d5e3ff","on-error":"#ffffff","on-tertiary":"#ffffff","surface-container-highest":"#e0e3e5","on-surface-variant":"#43474e"},"borderRadius":{"DEFAULT":"0.25rem","lg":"0.5rem","xl":"0.75rem","full":"9999px"},"spacing":{"margin-mobile":"20px","base":"8px","section-gap":"120px","container-max":"1280px","gutter":"24px","margin-desktop":"64px"},"fontFamily":{"headline-md":["Playfair Display"],"label-sm":["Inter"],"body-md":["Inter"],"body-lg":["Inter"],"display-lg-mobile":["Playfair Display"],"display-lg":["Playfair Display"],"subheading":["Inter"],"headline-lg":["Playfair Display"]},"fontSize":{"headline-md":["32px",{"lineHeight":"1.3","fontWeight":"600"}],"label-sm":["12px",{"lineHeight":"1.4","fontWeight":"500"}],"body-md":["16px",{"lineHeight":"1.6","fontWeight":"400"}],"body-lg":["18px",{"lineHeight":"1.6","fontWeight":"400"}],"display-lg-mobile":["40px",{"lineHeight":"1.2","fontWeight":"700"}],"display-lg":["64px",{"lineHeight":"1.1","letterSpacing":"-0.02em","fontWeight":"700"}],"subheading":["14px",{"lineHeight":"1.5","letterSpacing":"0.1em","fontWeight":"600"}],"headline-lg":["48px",{"lineHeight":"1.2","fontWeight":"600"}]}}}}</script></head><body class="bg-background font-body-md text-on-background"><div class="fixed top-0 w-full z-[60] bg-primary text-on-primary h-10 flex items-center justify-center px-margin-mobile lg:px-margin-desktop"><div class="max-w-container-max w-full flex justify-between items-center"><p class="font-label-sm text-label-sm">Admissions Open for Academic Session 2026–27 | Schedule a Campus Visit Today</p><a class="bg-tertiary-fixed text-on-tertiary-fixed px-4 py-1 rounded-full font-label-sm text-label-sm hover:scale-105 transition-transform" data-path="apply-now" href="#">Apply Now</a></div></div><header class="fixed top-10 w-full z-50 bg-surface/80 backdrop-blur-xl shadow-[0_1px_8px_rgba(0,0,0,0.04)]"><div class="h-20 max-w-container-max mx-auto px-margin-mobile lg:px-margin-desktop flex items-center justify-between"><div class="flex items-center gap-4"><img alt="School Logo" class="h-12 w-auto object-contain" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCkQDzwrEtMAnAn5JuhUK65cZ8qMXEpRmMEo2RyMzK8X1OZUFpwgW3jHspG72fTauZKzB7AQDLqoggQB9b4T7LXQSeD1-s0H2LKsb5XtYm4vlaSb0s5wzXiFyiNuJub4_uFxOwGU2VIBzpYHhLSZCC71U08GMWESBiSGy7rbGgLNN6pdAx2btOGJJ88su_fhomUpY9Ji2dV57OeVevSKzdICR11R7gZ7vj9f3v2_ynZNsmcIgu6VkZ70g"/><span class="font-headline-md text-[24px] text-primary tracking-tight hidden sm:block">Excellence Academy</span></div><nav class="hidden lg:flex items-center gap-6" data-active-classes="text-secondary font-bold"><a aria-current="page" class="transition-colors text-secondary font-bold" data-path="home" href="#">Home</a><a class="font-subheading text-subheading text-on-surface-variant hover:text-primary transition-colors" data-path="about" href="#">About</a><a class="font-subheading text-subheading text-on-surface-variant hover:text-primary transition-colors" data-path="academics" href="#">Academics</a><a class="font-subheading text-subheading text-on-surface-variant hover:text-primary transition-colors" data-path="facilities" href="#">Facilities</a><a class="font-subheading text-subheading text-on-surface-variant hover:text-primary transition-colors" data-path="activities" href="#">Activities</a><a class="font-subheading text-subheading text-on-surface-variant hover:text-primary transition-colors" data-path="achievements" href="#">Achievements</a><a class="font-subheading text-subheading text-on-surface-variant hover:text-primary transition-colors" data-path="gallery" href="#">Gallery</a><a class="font-subheading text-subheading text-on-surface-variant hover:text-primary transition-colors" data-path="contact" href="#">Contact</a></nav><div class="flex items-center gap-6"><a class="bg-secondary text-on-secondary px-6 py-2 rounded-lg font-subheading text-subheading hover:bg-primary transition-all" data-path="enquire-now" href="#">Enquire Now</a><div class="w-8 h-8 rounded-full bg-primary flex items-center justify-center"><span class="material-symbols-outlined text-on-primary text-[18px]">person</span></div></div></div></header><main class="w-full pt-[120px]"><div class="flex flex-col w-full overflow-hidden">
+<!-- Hero Section -->
+<section class="relative w-full min-h-[90vh] flex items-center justify-center -mt-20 pt-20 px-margin-mobile lg:px-margin-desktop overflow-hidden bg-primary overflow-hidden isolate">
+<div class="absolute inset-0 z-0">
+<!-- STITCH_THREEJS_START:ANIMATION_2 class="absolute inset-0 w-full h-full opacity-60" -->
+<div class="absolute inset-0 w-full h-full opacity-60" style="display:block;">
+<script src="https://ajax.googleapis.com/ajax/libs/threejs/r125/three.min.js"></script>
+<div id="threejs-container-ANIMATION_2" style="width:100%;height:100%"></div>
+<script>
+(function() {
+  const container = document.getElementById('threejs-container-ANIMATION_2');
+  const devicePixelRatio = window.devicePixelRatio || 1;
+  
+const width = container.clientWidth || window.innerWidth;
+const height = container.clientHeight || window.innerHeight;
+const scene = new THREE.Scene();
+const camera = new THREE.PerspectiveCamera(75, width / height, 0.1, 1000);
+const renderer = new THREE.WebGLRenderer({ alpha: true, antialias: true });
+renderer.setSize(width, height);
+container.appendChild(renderer.domElement);
+
+// Create a 3D Academic Ring / Star
+const group = new THREE.Group();
+
+const ringGeom = new THREE.TorusGeometry(3, 0.1, 16, 100);
+const material = new THREE.MeshPhongMaterial({ color: 0xFFD700, shininess: 100 });
+const ring = new THREE.Mesh(ringGeom, material);
+group.add(ring);
+
+const starGeom = new THREE.OctahedronGeometry(1.5, 0);
+const star = new THREE.Mesh(starGeom, material);
+group.add(star);
+
+scene.add(group);
+
+const light = new THREE.DirectionalLight(0xffffff, 1);
+light.position.set(5, 5, 5);
+scene.add(light);
+scene.add(new THREE.AmbientLight(0x404040));
+
+camera.position.z = 8;
+
+function animate() {
+  requestAnimationFrame(animate);
+  group.rotation.y += 0.01;
+  group.rotation.x += 0.005;
+  renderer.render(scene, camera);
+}
+animate();
+
+window.addEventListener('resize', () => {
+  const w = container.clientWidth || window.innerWidth;
+  const h = container.clientHeight || window.innerHeight;
+  camera.aspect = w / h;
+  camera.updateProjectionMatrix();
+  renderer.setSize(w, h);
+});
+
+})();
+</script>
+</div>
+<!-- STITCH_THREEJS_END:ANIMATION_2 -->
+<div class="absolute inset-0 bg-gradient-to-t from-primary via-primary/80 to-transparent"></div>
+</div>
+<div class="max-w-container-max mx-auto w-full grid lg:grid-cols-12 gap-gutter relative z-10 items-center mt-12">
+<div class="lg:col-span-7 flex flex-col gap-8">
+<div class="flex flex-col gap-4">
+<span class="inline-block px-4 py-1.5 rounded-full bg-secondary-fixed/10 border border-secondary-fixed/20 text-secondary-fixed font-label-sm uppercase tracking-widest w-fit backdrop-blur-md">Admissions Open 2024-25</span>
+<h1 class="font-display-lg-mobile lg:font-display-lg text-on-primary text-balance">Shape Young Minds.<br/><span class="text-tertiary-fixed">Inspire Bright Futures.</span></h1>
+<p class="font-body-lg text-on-primary/80 max-w-xl text-balance mt-4">A nurturing learning environment where curiosity meets knowledge, character meets confidence, and every child is empowered to achieve their potential.</p>
+</div>
+<div class="flex flex-wrap gap-4 mt-4">
+<button class="bg-tertiary-fixed text-on-tertiary-fixed px-8 py-4 rounded-lg font-subheading hover:bg-tertiary-fixed-dim transition-all shadow-xl hover:-translate-y-1">Apply for Admission</button>
+<button class="bg-transparent border border-outline-variant text-on-primary px-8 py-4 rounded-lg font-subheading hover:bg-surface-variant/10 transition-all backdrop-blur-md">Explore Our School</button>
+</div>
+</div>
+<div class="lg:col-span-5 relative hidden lg:block h-[600px] w-full rounded-2xl overflow-hidden shadow-2xl shadow-black/50 border border-white/10 group">
+<img alt="Starlight International School Campus" class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDAgQ66DCz_Ufq0JvPExxHyHYU8IC0hItBUvWBfhI9zkQSg_gQlk0-eUsI5rmwz51LCWvedH4S1Baq14-6KwnR4NeXzGZNUOeI5SYRMnFLZLdUvuQSyYIiMPE48wOs8pnOiuxFkwlK_llruSuIcSX6TBsbK0p5fHLsVdr7BJfzwY-pdXTi_1yAli050RBfX1c88IV_chKgwpZAoZnAmmPfD3CHJ48wt6xwpF9s-nabkd70tuewRiQMhHQ"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/80 via-transparent to-transparent"></div>
+<!-- Floating Stats -->
+<div class="absolute bottom-6 left-6 right-6 grid grid-cols-2 gap-4">
+<div class="bg-surface/10 backdrop-blur-xl border border-white/10 p-4 rounded-xl">
+<h4 class="font-headline-md text-tertiary-fixed">25+</h4>
+<p class="font-label-sm text-on-primary">Years of Excellence</p>
+</div>
+<div class="bg-surface/10 backdrop-blur-xl border border-white/10 p-4 rounded-xl">
+<h4 class="font-headline-md text-tertiary-fixed">1500+</h4>
+<p class="font-label-sm text-on-primary">Students Enrolled</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Mobile Stats -->
+<section class="lg:hidden w-full bg-primary-container py-12 px-margin-mobile">
+<div class="grid grid-cols-2 gap-4 max-w-container-max mx-auto">
+<div class="flex flex-col gap-1">
+<span class="font-headline-md text-tertiary-fixed">25+</span>
+<span class="font-label-sm text-on-primary-container uppercase tracking-wider">Years of Excellence</span>
+</div>
+<div class="flex flex-col gap-1">
+<span class="font-headline-md text-tertiary-fixed">1500+</span>
+<span class="font-label-sm text-on-primary-container uppercase tracking-wider">Students</span>
+</div>
+<div class="flex flex-col gap-1">
+<span class="font-headline-md text-tertiary-fixed">100+</span>
+<span class="font-label-sm text-on-primary-container uppercase tracking-wider">Faculty Members</span>
+</div>
+<div class="flex flex-col gap-1">
+<span class="font-headline-md text-tertiary-fixed">95%</span>
+<span class="font-label-sm text-on-primary-container uppercase tracking-wider">Success Rate</span>
+</div>
+</div>
+</section>
+<!-- Welcome Section -->
+<section class="w-full py-section-gap px-margin-mobile lg:px-margin-desktop bg-surface">
+<div class="max-w-container-max mx-auto grid lg:grid-cols-2 gap-16 items-center">
+<div class="relative h-[600px] rounded-2xl overflow-hidden shadow-2xl">
+<img alt="Students learning in a modern environment" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDAgQ66DCz_Ufq0JvPExxHyHYU8IC0hItBUvWBfhI9zkQSg_gQlk0-eUsI5rmwz51LCWvedH4S1Baq14-6KwnR4NeXzGZNUOeI5SYRMnFLZLdUvuQSyYIiMPE48wOs8pnOiuxFkwlK_llruSuIcSX6TBsbK0p5fHLsVdr7BJfzwY-pdXTi_1yAli050RBfX1c88IV_chKgwpZAoZnAmmPfD3CHJ48wt6xwpF9s-nabkd70tuewRiQMhHQ"/>
+<div class="absolute -bottom-8 -right-8 w-64 h-64 bg-secondary rounded-full blur-3xl opacity-20"></div>
+<div class="absolute top-8 left-8 bg-surface/90 backdrop-blur-md p-6 rounded-xl border border-outline-variant max-w-xs shadow-lg">
+<span class="material-symbols-outlined text-secondary text-4xl mb-4">school</span>
+<h3 class="font-headline-md text-on-surface text-xl mb-2">Holistic Education</h3>
+<p class="font-body-md text-on-surface-variant text-sm">Fostering intellectual, emotional, and social growth in every student.</p>
+</div>
+</div>
+<div class="flex flex-col gap-8">
+<div>
+<h2 class="font-subheading text-secondary uppercase tracking-widest mb-4">Welcome to Starlight</h2>
+<h3 class="font-headline-lg text-on-surface">Cultivating Leaders of Tomorrow</h3>
+</div>
+<div class="space-y-6">
+<p class="font-body-lg text-on-surface-variant">At Starlight International School, we believe that education extends beyond the classroom. Our meticulously crafted curriculum and state-of-the-art facilities provide the perfect ecosystem for young minds to flourish.</p>
+<div class="grid sm:grid-cols-2 gap-8 pt-6 border-t border-outline-variant">
+<div>
+<h4 class="font-subheading text-primary text-lg mb-3 flex items-center gap-2"><span class="material-symbols-outlined text-secondary">visibility</span> Our Vision</h4>
+<p class="font-body-md text-on-surface-variant">To be a global center of excellence in education, nurturing innovative thinkers and compassionate citizens.</p>
+</div>
+<div>
+<h4 class="font-subheading text-primary text-lg mb-3 flex items-center gap-2"><span class="material-symbols-outlined text-secondary">track_changes</span> Our Mission</h4>
+<p class="font-body-md text-on-surface-variant">To provide a stimulating learning environment that encourages curiosity, critical thinking, and lifelong learning.</p>
+</div>
+</div>
+</div>
+<button class="bg-primary text-on-primary px-8 py-3 rounded-lg font-subheading w-fit hover:bg-primary/90 transition-colors mt-4">Discover Our Philosophy</button>
+</div>
+</div>
+</section>
+</div></main><footer class="w-full bg-surface-container-highest py-section-gap mt-section-gap"><div class="max-w-container-max mx-auto px-margin-mobile lg:px-margin-desktop grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-gutter"><div class="flex flex-col gap-4"><img alt="School Logo" class="h-12 w-fit object-contain" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCkQDzwrEtMAnAn5JuhUK65cZ8qMXEpRmMEo2RyMzK8X1OZUFpwgW3jHspG72fTauZKzB7AQDLqoggQB9b4T7LXQSeD1-s0H2LKsb5XtYm4vlaSb0s5wzXiFyiNuJub4_uFxOwGU2VIBzpYHhLSZCC71U08GMWESBiSGy7rbGgLNN6pdAx2btOGJJ88su_fhomUpY9Ji2dV57OeVevSKzdICR11R7gZ7vj9f3v2_ynZNsmcIgu6VkZ70g"/><p class="font-body-md text-on-surface-variant">Nurturing global citizens through holistic education and academic excellence since 1995.</p><div class="flex gap-4 mt-2"><span class="material-symbols-outlined text-secondary cursor-pointer">public</span><span class="material-symbols-outlined text-secondary cursor-pointer">mail</span><span class="material-symbols-outlined text-secondary cursor-pointer">call</span></div></div><div class="flex flex-col gap-4"><h4 class="font-subheading text-subheading text-primary uppercase">Quick Links</h4><nav class="flex flex-col gap-2"><a class="font-body-md text-on-surface-variant hover:text-secondary" href="#">Admissions</a><a class="font-body-md text-on-surface-variant hover:text-secondary" href="#">Curriculum</a><a class="font-body-md text-on-surface-variant hover:text-secondary" href="#">School Calendar</a><a class="font-body-md text-on-surface-variant hover:text-secondary" href="#">News &amp; Events</a></nav></div><div class="flex flex-col gap-4"><h4 class="font-subheading text-subheading text-primary uppercase">Important Links</h4><nav class="flex flex-col gap-2"><a class="font-body-md text-on-surface-variant hover:text-secondary" href="#">Student Portal</a><a class="font-body-md text-on-surface-variant hover:text-secondary" href="#">Parent Resources</a><a class="font-body-md text-on-surface-variant hover:text-secondary" href="#">Careers</a><a class="font-body-md text-on-surface-variant hover:text-secondary" href="#">Privacy Policy</a></nav></div><div class="flex flex-col gap-4"><h4 class="font-subheading text-subheading text-primary uppercase">Contact Info</h4><div class="flex flex-col gap-3 font-body-md text-on-surface-variant"><div>123 Global Avenue,<br/>Education Hub, City 10101</div><div>T: +1 (234) 567-890</div><div>E: admissions@excellence.edu</div></div></div></div><div class="max-w-container-max mx-auto px-margin-mobile lg:px-margin-desktop mt-12 pt-8 border-t border-outline-variant text-center text-on-surface-variant font-label-sm text-label-sm">© 2024 Excellence Academy. All rights reserved.</div></footer></body></html>
